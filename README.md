@@ -1,42 +1,15 @@
-# Adrián
+# Adrián — portfolio personal
 
-Bienvenido/a a mi perfil personal.
+Una presentación personal interactiva con estética neón, animaciones suaves y un minijuego Snake.
 
-Soy Adrián, estudiante/desarrollador apasionado por la tecnología, la programación y la resolución de problemas. Me gusta aprender continuamente, construir proyectos útiles y mejorar cada día.
+## Verlo en local
 
-## Sobre mí
+Abre `index.html` en tu navegador. No necesita dependencias ni instalación.
 
-- 💻 Interés en desarrollo web, software y tecnología.
-- 📚 Aprendizaje constante y curiosidad por nuevas herramientas.
-- 🚀 Motivado por crear soluciones prácticas y útiles.
-- 🤝 Trabajo en equipo, creatividad y mejora continua.
+## Publicarlo con GitHub Pages
 
-## Tecnologías
+En el repositorio, ve a **Settings → Pages**, elige **Deploy from a branch**, selecciona `main` y la carpeta `/ (root)`, y guarda los cambios. GitHub te mostrará el enlace cuando el sitio esté listo.
 
-- HTML / CSS / JavaScript
-- Git / GitHub
-- Frontend y desarrollo web básico
-- Programación y lógica de aplicación
+## Personalizar
 
-## Proyectos
-
-- Portafolio personal
-- Mini proyectos de programación
-- Demos y ejercicios de desarrollo web
-
-## Objetivos
-
-- Mejorar mis habilidades técnicas
-- Aprender nuevas tecnologías
-- Participar en proyectos reales
-- Seguir creciendo como desarrollador
-
-## Contacto
-
-- GitHub: https://github.com/adriang614
-- Email: puedes añadir tu email aquí
-- LinkedIn: añade tu perfil
-
----
-
-Este repositorio forma parte de mi presentación personal y sirve como espacio para compartir mi trabajo y evolución.
+Edita `index.html` para cambiar el texto, los proyectos y los enlaces. Los estilos están en `style.css` y el juego y las animaciones en `script.js`.
